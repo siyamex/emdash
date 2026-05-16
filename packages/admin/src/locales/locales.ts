@@ -33,6 +33,7 @@ export const LOCALES: LocaleDefinition[] = [
 	// Source locale first, then alphabetical by English name.
 	{ code: "en", label: "English", enabled: true },
 	{ code: "ar", label: "العربية", enabled: true, dir: "rtl" }, // Arabic
+	{ code: "dv", label: "ދިވެހި", enabled: true, dir: "rtl" }, // Dhivehi
 	{ code: "eu", label: "Euskara", enabled: true }, // Basque
 	{ code: "zh-CN", label: "简体中文", enabled: true }, // Chinese (Simplified)
 	{ code: "zh-TW", label: "繁體中文", enabled: true }, // Chinese (Traditional)
